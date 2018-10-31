@@ -71,13 +71,6 @@ int main()
 					
 				}
 			}
-			//for(ll i=0;i<k;i++)
-			//{
-				//cout<<a[i]<<" ";
-			//}
-			//if(a[0]==1)
-			//	cout<<"0"<<"\n";
-			//else
 			{
 				ll maxpro=1;
 				for(ll i=0;i<k;i++)
